@@ -1,0 +1,1 @@
+postgres://root:EIYdXiLO31z1cRLhEiiolC2kBfS9x2ov@dpg-cnc1cn2cn0vc7395kjh0-a.oregon-postgres.render.com/guitarla_vqmi
